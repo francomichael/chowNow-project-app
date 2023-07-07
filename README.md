@@ -1,3 +1,8 @@
-# chowNow-project-app
+# ChowNow - Responsive Website Delivery
 
- - Responsive food delivery front page mock_up
+- Website Delivery, using HTML, Sass and JavaScript.
+- Includes a dark and light mode.
+- Color customization.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful user interface.
+
