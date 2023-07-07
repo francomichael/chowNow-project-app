@@ -1,2 +1,3 @@
 # chowNow-project-app
- Responsive 
+
+ - Responsive food delivery front page mock_up
